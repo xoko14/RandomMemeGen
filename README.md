@@ -1,0 +1,2 @@
+# RandomMemeGen
+ generate infinite "memes"
